@@ -2,7 +2,7 @@
 
 **Full-Stack TypeScript & AI Engineer** — I build web apps, APIs, and AI-powered products end to end.
 
-💬 English, async-friendly · 🧩 Architecture → backend → AI → deploy, solo-capable
+🗓 8+ years commercial experience · 💬 English, async-friendly · 🧩 Architecture → backend → AI → deploy
 
 ---
 
