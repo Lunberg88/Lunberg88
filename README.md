@@ -44,9 +44,3 @@ React · Next.js · Vue.js · TailwindCSS · shadcn/ui
 ### 📊 GitHub
 
 ![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunberg88&show_icons=true&hide_border=true&count_private=true)
-
----
-
-### 📫 Reach me
-
-- 📧 Email — **lexx@make-it.run**
