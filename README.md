@@ -38,9 +38,3 @@ React · Next.js · Vue.js · TailwindCSS · shadcn/ui
 - Building AI-powered products and agent workflows (OpenAI / Claude, Mastra, RAG)
 - Designing scalable APIs and backend services in TypeScript (Node.js / NestJS)
 - Automating internal workflows with n8n and custom backend services
-
----
-
-### 📊 GitHub
-
-![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunberg88&show_icons=true&hide_border=true&count_private=true)
