@@ -32,33 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Lunberg88/Lunberg88/master/profile-summary-card-output/moltack/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Lunberg88/Lunberg88/master/profile-summary-card-output/moltack/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Lunberg88/Lunberg88/master/profile-summary-card-output/moltack/4-productive-time.svg)
-```
-
-    
