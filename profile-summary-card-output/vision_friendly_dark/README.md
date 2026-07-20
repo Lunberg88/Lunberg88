@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Lunberg88/Lunberg88/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)
+```
+
+    
